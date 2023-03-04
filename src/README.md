@@ -1,5 +1,12 @@
 # 動作方法
 
+## パッケージのインストール
+
+```shell
+% pip install streamlit
+% pip install openai
+```
+
 ## demo1の動作方法
 
 ```shell
