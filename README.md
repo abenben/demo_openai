@@ -27,7 +27,9 @@ https://openai.com/product を開いて「Get started」をクリックする。
 ## 5.
 
 「Create new secret key」をクリックしてキーを作成する。
+
 作成したキーはコピーして環境変数などに設定する。
+
 ※この設定画面からはもう一度見ることはできない。分からなくなった場合は新規にキーを生成し直すこと。
 
 ![img_4.png](images/img_4.png)
